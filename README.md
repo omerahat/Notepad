@@ -1,4 +1,5 @@
-#Notepad
+# Notepad
+
 This is a simple notepad application implemented in Python using the PyQt5 module. It provides a basic text editor with the ability to save and open files.
 
 ## Requirements
