@@ -26,6 +26,7 @@ The notepad application provides a basic text editor with three buttons:
 - Clear: Clears the text in the editor.
 - Open: Opens a file from disk and displays its contents in the editor.
 - Save: Saves the content of the editor to a file.
+
 To open a file, click on the Open button and select the file you want to open. To save the content of the editor to a file, click on the Save button and select a file name and location. To clear the text in the editor, click on the Clear button.
 
 ## Acknowledgments
